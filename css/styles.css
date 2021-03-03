@@ -73,3 +73,6 @@ main > .tagline {
 i.hover:hover{
 	color: rgba(75, 86, 88, 0.5);
 }
+.textstuff{
+	padding-top:30px;
+}
